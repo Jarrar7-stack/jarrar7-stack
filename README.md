@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🌱 I’m currently in the process of becoming a full-stack developer
+- A master at law by degree, A master of front-end development by practice ;)
+- languages: HTML, CSS, JAVASCRIPT
+- in the process of learning Python.
 <!--
 **Jarrar7-stack/jarrar7-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
